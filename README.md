@@ -4,7 +4,11 @@ it's me, ohansyah
 Backend Developer
 -----------------
 
-I've been working for +3 years as a backend developer specializing in developing API for multiple projects e-commerce used by more than a hundred thousand users all over Indonesia.
+Full-stack developer with 3 years of experience building web applications that are both powerful and intuitive to use. I love working on complex projects, developing cutting-edge features that truly impact business results.
+
+My top strength is trying something new. I have always been interesting to learn the business processes, different frameworks, and technologies to deliver impactful features that increase productivity and efficiency both for business owners and customers!
+
+I am proficient in Node.js and Laravel. Responsible for delivering the main API  for a large e-commerce company in Indonesia, building main features such as full-text-search, online order, payment, and delivery tracking with many integrations through another support services like Elasticsearch, Payment Gateway, Logistic Gateway and developed on AWS Microservices Ecosystem.
 
 <a href="https://www.github.com/ohansyah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ohansyah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
