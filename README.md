@@ -21,10 +21,6 @@ Hello World!<br>I'm Backend Developer<br><br>also a Full-stack developer with 5 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ohansyah&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohansyah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ohansyah&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
